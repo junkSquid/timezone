@@ -173,7 +173,7 @@
             "AirportCode": "ABC",
             "Begin": "2020-03-29T01:00:00.000Z",
             "End": "2020-10-25T00:59:59.999Z",
-            "Offset": "+02:00"
+            "Offset": "+02:00asd"
         },
         {
             "AirportCode": "ABC",
